@@ -34,5 +34,5 @@ you can make a desktop shortcut so you don't waste too muchtime.
 
 1. Paste an URL.
 2. Choose a folder.
-3. Choose video quality: best, 1080p, 720p, 480p ili audio-only-mp3.
+3. Choose video quality: best, 1080p, 720p, 480p or audio-only-mp3.
 4. click `Download / Convert to MP4`.
